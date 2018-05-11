@@ -1,10 +1,6 @@
 # Laravel Shopping Cart Example
 
-An example Laravel App with Shopping Cart functionality. Uses [Crinsane/LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart)
-
-Demo: <http://cartdemo.andredemos.ca/>
-
-Blog Post: <http://andremadarang.com/implementing-a-shopping-cart-in-laravel/>
+An example Laravel App with Shopping Cart functionality.With Multi Currency Support.
 
 ## Installation
 
